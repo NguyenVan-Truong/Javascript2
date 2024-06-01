@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Trường ",
+      "price": "1460",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Trường Hay Ho",
+      "price": "145212",
+      "image": "https://picsum.photos/200/200"
+    },
+    {
+      "name": "Trường ",
+      "price": "14502",
+      "id": 7
+    },
+    {
+      "name": "Trường Hay Ho123",
+      "price": "1452",
+      "image": "https://picsum.photos/200/200",
+      "id": 9
+    },
+    {
+      "name": "Trường ",
+      "price": "1452",
+      "image": "src/ronaldo.jpg",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": 123456
+    }
+  ]
+}
